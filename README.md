@@ -59,15 +59,5 @@ This implementation covers the basic rules and mechanics of Catan. Future improv
 
 ## Author
 
-This project was developed by [Your Name]. Contributions, suggestions, and bug reports are welcome. Feel free to open an issue or submit a pull request on the project’s repository.
+This project was developed by Guy Eshel. Contributions, suggestions, and bug reports are welcome. Feel free to open an issue or submit a pull request on the project’s repository.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-
----
-
-These detailed README files provide in-depth information about the project, including instructions for compiling and running the game, a breakdown of the project's structure, game rules, and future improvement suggestions. If you need further customization or additional sections, feel free to ask!
